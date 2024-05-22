@@ -2,20 +2,20 @@
  PHP, MySQL, Html, BootStrap kullanılarak web tabanlı uygulama
 
 
-# Sitenin linki 
+## Sitenin linki 
 http://erenmarket.erenozer.com.tr
 <br> 
-# Anlatım Videosu
+## Anlatım Videosu
 https://youtu.be/BevtXefWAYY <br>
 
-# Gereksinimler
+## Gereksinimler
 
 - XAMPP (PHP ve MySQL desteği ile)
 - Bir web tarayıcısı
 
 
 
-# Kurulum
+## Kurulum
 
 ### 1. XAMPP Kurulumu
 

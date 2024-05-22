@@ -16,14 +16,14 @@ kullanıcı adı: personel <br>
 kullanıcı adı: üye<br>
 şifre : 123
 
-<br><br>
+<br>
 ## Eklenecek Özellikler
 - Satın alma fonksiyonu eklenecek.
 - Satın alınan öğeleri görebileceğimiz bir sepet eklenecek.
 - Geçmiş satın alımları profilimizde görebileceğimiz bir sayfa eklenecek.
 - Satın alıma bağlı olarak ürün stoklarında azalma eklenecek.
 
-<br><br>
+<br>
 
 ## Sitenin linki 
 http://erenmarket.erenozer.com.tr

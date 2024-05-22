@@ -20,13 +20,13 @@ https://youtu.be/BevtXefWAYY <br>
 ### 1. XAMPP Kurulumu
 
 1. [XAMPP](https://www.apachefriends.org/index.html) indirin ve kurun.
-2. XAMPP Kontrol Panelini açın ve Apache ile MySQL servislerini başlatın.
+2. XAMPP Kontrol Panelini açın ve Apache ile MySQL servislerini başlatın.<br>
 
 ### 2. Proje Dosyalarını İndirin
 
 1. Bu projeyi zip olarak indirin.
 2. XAMPP'ın `htdocs` dizinine gidin ve `proje` adında bir klasör açın.
-3. Proje dosyalarını `proje` adlı dosyaya aktarın.
+3. Proje dosyalarını `proje` adlı dosyaya aktarın.<br>
  
 ### 3. Veritabanı Kurulumu
 
@@ -34,7 +34,7 @@ https://youtu.be/BevtXefWAYY <br>
 2. Yeni bir veritabanı oluşturun ve ismini `webproje` yapın.
 3. `webproje.sql` dosyasını bu veritabanına içe aktarın:
     - phpMyAdmin arayüzünden `Import` sekmesine gidin.
-    - `webproje.sql` dosyasını seçin ve içe aktarın.
+    - `webproje.sql` dosyasını seçin ve içe aktarın.<br>
 
 ### 4. Başlatma
 

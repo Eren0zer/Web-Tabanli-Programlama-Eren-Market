@@ -1,7 +1,7 @@
 # Web Tabanli Programlama Özer Market
  PHP, MySQL, Html, BootStrap kullanılarak yapılmış web tabanlı uygulamadır. Bu projede bir sanal market oluşturdum. Projemi anlatmaya yetkilerden bahsederek başlamak istiyorum.
  3 adet yetki vardır. Bunlar "admin" "personel" ve "üyedir". Admin sisteme giriş yapan kullanıcıların yetkilerini değiştiribilmektedir. Personel ürün kategorisi ekleyip bunları düzenleyebilir. Ürün ekleyip bu ürünleri düzenleyebilmektedir. Son yetki iste üyedir. Üyeler menüsünde ürünler ve sepet vardır. Şuanlık ürünleri görebilir ancak alışveriş yapamaktayız.
-Admin ve personel sadece ürünleri ve bilgilerini görebilirken üyeler ürünlerin altına almak istediği kadar adet bilgisi girebilir ve sepete ekle butonuyla sepete ekleyebilir. 
+Admin ve personel sadece ürünleri ve bilgilerini görebilirken üyeler ürünlerin altına almak istediği kadar adet bilgisi girebilir ve sepete ekle butonuyla sepete ekleyebilir. Hakkımızda sayfasında bu proje ve diğer projelerim hakkında bilgiler bulabilirsiniz.
 <br><br>
 
 ## Web Sitesinde Denenebilir Hesaplar

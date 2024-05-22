@@ -5,15 +5,15 @@ Admin ve personel sadece ürünleri ve bilgilerini görebilirken üyeler ürünl
 <br><br>
 
 ## Web Sitesinde Denenebilir Hesaplar
-!!! Hazır web sitesine girilmiş hesap bilgileri aşağıdadir. Canlı bir şekilde deneyimleyebilirsiniz.
+!!! Hazır web sitesine girilmiş hesap bilgileri aşağıdadir. Canlı bir şekilde deneyimleyebilirsiniz. <br>
 
-kullanıcı adı: admin
+kullanıcı adı: admin<br>
 şifre : 1
 
-kullanıcı adı: personel 
+kullanıcı adı: personel <br>
 şifre : 123
 
-kullanıcı adı: üye
+kullanıcı adı: üye<br>
 şifre : 123
 
 <br><br>

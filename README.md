@@ -4,7 +4,7 @@ bir adet hesap açmamız gerekiyor. Hesabı açtıktan sonra giriş yaparak uygu
 <br><br>
 
 ## Web Sitesinde Denenebilir Hesaplar
-!!! Hazır web sitesine girilmiş hesap bilgileri aşağıdadir. Canlı bir şekilde deneyimleyebilirsiniz. Kendi kurmuş olduğununz uygulama için geçerli değildir.  <br>
+!!! Hazır web sitesine girilmiş hesap bilgileri aşağıdadir. Canlı bir şekilde deneyimleyebilirsiniz. Kendi kurmuş olduğunuz uygulama için geçerli değildir.  <br>
 
 kullanıcı adı: admin<br>
 şifre : 1
@@ -58,6 +58,7 @@ https://youtu.be/BevtXefWAYY <br><br>
 3. `webproje.sql` dosyasını bu veritabanına içe aktarın:
     - phpMyAdmin arayüzünden `Import` sekmesine gidin.
     - `webproje.sql` dosyasını seçin ve içe aktarın.<br>
+    
 
 ### 4. Başlatma
 

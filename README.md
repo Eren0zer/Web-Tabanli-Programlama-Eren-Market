@@ -1,18 +1,25 @@
 # Web Tabanli Programlama Özer Market
  PHP, MySQL, Html, BootStrap kullanılarak web tabanlı uygulama
 
+<br><br>
+## Eklenecek Özellikler
+- Satın alınan öğeleri görebileceğimiz bir sepet eklenecek.
+- Geçmiş satın alımları profilimizde görebileceğimiz bir sayfa eklenecek.
+- Satın alıma bağlı olarak ürün stoklarında azalma eklenecek.
+<br><br>
 
 ## Sitenin linki 
 http://erenmarket.erenozer.com.tr
-<br> 
+<br> <br>
+
 ## Anlatım Videosu
-https://youtu.be/BevtXefWAYY <br>
+https://youtu.be/BevtXefWAYY <br><br>
+
 
 ## Gereksinimler
 
 - XAMPP (PHP ve MySQL desteği ile)
-- Bir web tarayıcısı
-
+- Bir web tarayıcısı <br><br>
 
 
 ## Kurulum

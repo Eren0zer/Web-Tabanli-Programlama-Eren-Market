@@ -21,6 +21,7 @@ kullanıcı adı: üye<br>
 - Satın alınan öğeleri görebileceğimiz bir sepet eklenecek.
 - Geçmiş satın alımları profilimizde görebileceğimiz bir sayfa eklenecek.
 - Satın alıma bağlı olarak ürün stoklarında azalma eklenecek.
+- Kullanıcı hesap bilgierini değiştirirken olması gereken format dışında bilgi girememeli.
 
 <br>
 

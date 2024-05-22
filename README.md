@@ -25,18 +25,18 @@ https://youtu.be/BevtXefWAYY <br>
 ### 2. Proje Dosyalarını İndirin
 
 1. Bu projeyi zip olarak indirin.
-2. XAMPP'ın `htdocs` dizinine gidin ve 'proje' adında bir klasör açın.
-3. Proje dosyalarını 'proje' adlı dosyaya aktarın.
+2. XAMPP'ın `htdocs` dizinine gidin ve `proje` adında bir klasör açın.
+3. Proje dosyalarını `proje` adlı dosyaya aktarın.
  
 ### 3. Veritabanı Kurulumu
 
 1. Tarayıcınızdan phpMyAdmin'i açın.
-2. Yeni bir veritabanı oluşturun ve ismini 'webproje' yapın.
+2. Yeni bir veritabanı oluşturun ve ismini `webproje` yapın.
 3. `webproje.sql` dosyasını bu veritabanına içe aktarın:
     - phpMyAdmin arayüzünden `Import` sekmesine gidin.
     - `webproje.sql` dosyasını seçin ve içe aktarın.
 
 ### 4. Başlatma
 
-1. Tarayıcınıza 'http://localhost/proje' yazın.
+1. Tarayıcınıza `http://localhost/proje` yazın.
 2. Artık kullanabilirsiniz. 

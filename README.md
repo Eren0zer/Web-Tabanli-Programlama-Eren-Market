@@ -14,9 +14,9 @@ kullanıcı adı: personel <br>
 şifre : 123
 
 kullanıcı adı: üye<br>
-şifre : 123
+şifre : 123<br>
 
-<br>
+
 ## Eklenecek Özellikler
 - Satın alma fonksiyonu eklenecek.
 - Satın alınan öğeleri görebileceğimiz bir sepet eklenecek.

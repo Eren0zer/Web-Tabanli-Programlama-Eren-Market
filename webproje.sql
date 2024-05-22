@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Anamakine: 127.0.0.1
--- Üretim Zamanı: 22 May 2024, 15:12:16
+-- Üretim Zamanı: 22 May 2024, 15:19:47
 -- Sunucu sürümü: 10.4.32-MariaDB
 -- PHP Sürümü: 8.2.12
 
@@ -97,9 +97,9 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`User_ID`, `yetki`, `User_Name`, `E_Mail`, `First_Name`, `Last_Name`, `GSM_No`, `Birth_Date`, `Password`) VALUES
-(19, 2, 'admin', 'erenamasyaerenamasya@gmail.com', 'Erenene', 'Özerwer', '05078261585', '2023-02-12', '$2y$10$9Aaal0.KW5jHvMe8GG391.ibFeSE6hDGGh0Fo96J3S0aLMgInE00m'),
-(21, 3, 'erenozer', 'erenamasyaerenamasya@gmail.com', 'Mehmet', 'Özer', '05078261585', '2024-05-10', '$2y$10$5atdPoToPHH9ddsj579DyeAZRNLJ1HyWqXYeK7qylvsB/snAAtDqO'),
-(29, 1, 'erenozer2', 'erenamasyaerenamasya@gmail.com', 'Eren', 'Özer', '05078261585', '2006-06-07', '$2y$10$RmvUZ41FkWaqDNce/sr2ZOcgmIZzCUeqaY0BvBG0dK1lMSUoYltGS');
+(19, 2, 'admin', 'eren12341@gmail.com', 'Erenene', 'Özerwer', '05078223436', '2023-02-12', '$2y$10$9Aaal0.KW5jHvMe8GG391.ibFeSE6hDGGh0Fo96J3S0aLMgInE00m'),
+(21, 3, 'erenozer', 'eren45632@gmail.com', 'Mehmet', 'Özer', '05078245678', '2024-05-10', '$2y$10$5atdPoToPHH9ddsj579DyeAZRNLJ1HyWqXYeK7qylvsB/snAAtDqO'),
+(29, 1, 'erenozer2', 'er57458465@gmail.com', 'Eren', 'Özer', '05078263486', '2006-06-07', '$2y$10$RmvUZ41FkWaqDNce/sr2ZOcgmIZzCUeqaY0BvBG0dK1lMSUoYltGS');
 
 --
 -- Dökümü yapılmış tablolar için indeksler

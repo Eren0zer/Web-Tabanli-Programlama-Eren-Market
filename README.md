@@ -5,7 +5,7 @@ Admin ve personel sadece ürünleri ve bilgilerini görebilirken üyeler ürünl
 <br><br>
 
 ## Web Sitesinde Denenebilir Hesaplar
-!!! Hazır web sitesine girilmiş hesap bilgileri aşağıdadir. Canlı bir şekilde deneyimleyebilirsiniz. <br>
+!!! Hazır web sitesine girilmiş hesap bilgileri aşağıdadir. Canlı bir şekilde deneyimleyebilirsiniz. Kendi kurmuş olduğununz uygulama için geçerli değildir.  <br>
 
 kullanıcı adı: admin<br>
 şifre : 1

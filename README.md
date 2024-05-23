@@ -30,7 +30,7 @@ http://erenmarket.erenozer.com.tr
 <br> <br>
 
 ## Anlatım Videosu
-https://youtu.be/BevtXefWAYY <br><br>
+https://youtu.be/-Pp7vPcwaQ8)
 
 
 ## Gereksinimler
